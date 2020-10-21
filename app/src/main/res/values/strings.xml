@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Baskeball App</string>
+    <string name="add_two">+2</string>
+    <string name="add_one">+1</string>
+    <string name="subtract_one">-1</string>
+</resources>
